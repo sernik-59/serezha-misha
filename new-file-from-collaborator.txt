@@ -1,0 +1,3 @@
+A new file in your project.
+This file has been created via web interface. Now I have to learn how to create a file via CLI (command line interface).
+К сожалению в этом текстовом поле не работает стандантный in-browser-spellchecker :-(
